@@ -1,4 +1,4 @@
-# staticServer
+# staticResourceService
 
 > 静态资源服务
 
@@ -6,12 +6,12 @@
 
 ``` bash
 # 全局安装
-npm install staticServer -g
+npm install staticResourceService -g
 
 #启动命令
-staticServer -p 9000 -h 127.0.0.1 -d ./  -o true
+staticResourceService -p 9000 -h 127.0.0.1 -d ./  -o true
 或者
-staticServer --port=9000 --hostName=127.0.0.1 --baseUrl=./ --open=true
+staticResourceService --port=9000 --hostName=127.0.0.1 --baseUrl=./ --open=true
 
 #参数说明
 -p或者是--port是端口号，默认是3000

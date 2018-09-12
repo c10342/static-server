@@ -1,10 +1,14 @@
 {
-  "name": "staticServer",
-  "version": "1.0.0",
+  "name": "static-resource-service",
+  "version": "1.0.1",
   "description": "静态资源服务",
-  "main": "index.js",
+  "main": "./src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c10342/static-server"
+  },
   "bin": {
-    "staticServer": "bin/staticServer"
+    "staticResourceService": "bin/staticServer"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
