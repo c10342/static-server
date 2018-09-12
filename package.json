@@ -1,5 +1,5 @@
 {
-  "name": "static-resource-service",
+  "name": "staticResourceService",
   "version": "1.0.1",
   "description": "静态资源服务",
   "main": "./src/index.js",
