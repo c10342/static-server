@@ -1,4 +1,4 @@
-# staticResourceService
+# static-resource-service
 
 > 静态资源服务
 
@@ -6,7 +6,7 @@
 
 ``` bash
 # 全局安装
-npm install staticResourceService -g
+npm install static-resource-service -g
 
 #启动命令
 staticResourceService -p 9000 -h 127.0.0.1 -d ./  -o true
